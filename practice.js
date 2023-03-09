@@ -7,6 +7,7 @@ const getPostData = async () => {
     console.error(e);
   }
 
+  
 };
 
 getPostData();
